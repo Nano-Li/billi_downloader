@@ -1,0 +1,5 @@
+# Template only. Copy to a private local file and replace the placeholder.
+# Do not commit the completed file or synchronize it with the vault.
+[profiles.billi_downloader]
+sessdata = "REPLACE_WITH_YOUR_SESSDATA"
+# bili_jct = "OPTIONAL_USER_SUPPLIED_VALUE"

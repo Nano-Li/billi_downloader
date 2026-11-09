@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+auth.toml
+*.local.toml
+.env
+.env.*
+!.env.example
+downloads/
+*.mp4
+*.mkv
+*.m4a
+*.mp3
+*.flac
+*.part
+*.log

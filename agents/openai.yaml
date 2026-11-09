@@ -1,0 +1,4 @@
+interface:
+  display_name: "B 站音视频下载"
+  short_description: "使用知识库中的 yutto 环境和用户登录信息，将 B 站视频或音频下载到指定位置"
+  default_prompt: "使用 $billi_downloader，将我提供的 B 站链接按视频或音频下载到指定目录。"
